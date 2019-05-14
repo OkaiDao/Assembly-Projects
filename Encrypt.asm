@@ -136,5 +136,5 @@ Continue:
 	ret
 TranslateBuffer ENDP
 
-end ;main11
+end main11
 
