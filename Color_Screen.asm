@@ -104,4 +104,4 @@ ChooseCharacter PROC
 
 ChooseCharacter ENDP
 
-END ;mainCS
+END mainCS
