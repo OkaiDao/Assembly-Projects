@@ -56,4 +56,4 @@ main1 proc
 
 exit
 main1 endp
-end ;main1
+end main1
