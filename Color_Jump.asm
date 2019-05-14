@@ -44,4 +44,4 @@ main4 proc
 
 	ret
 main4 ENDP
-end ;main4
+end main4
