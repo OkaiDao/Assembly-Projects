@@ -104,4 +104,4 @@ PackedBcdSub PROC uses EAX EBX
 	ret
 PackedBcdSub ENDP
 
-end ;main07PackedBcdSub
+end main07PackedBcdSub
