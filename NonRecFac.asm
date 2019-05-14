@@ -95,5 +95,5 @@ _FactorialIterative PROC USES ecx edx
 		ret
 _FactorialIterative ENDP
 
-END ;mainNRF
+END mainNRF
 
