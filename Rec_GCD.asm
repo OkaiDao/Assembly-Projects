@@ -126,4 +126,4 @@ int1:DWORD, int2:DWORD, gcd:DWORD
 	ret
 ShowResult ENDP
 
-end ;mainRec_GCD
+end mainRec_GCD
