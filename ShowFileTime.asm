@@ -110,4 +110,4 @@ ShowFileTime PROC
 
 ShowFileTime ENDP
 
-end ;maintime
+end maintime
