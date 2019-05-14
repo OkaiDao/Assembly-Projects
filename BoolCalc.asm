@@ -257,4 +257,4 @@ ExitProgram PROC
 
 ExitProgram ENDP
 
-END ;main08stub
+END main08stub
